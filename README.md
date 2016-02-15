@@ -28,6 +28,6 @@ L'objet est composé de deux éléments s'imbriquant. L'élément du haut est co
 
 Sur l'élément du haut se trouve un élément circulaire permettant d'appuyer sur le `pressure sensor` de l'élément du bas lorsque les deux éléments sont imbriqués.
 
-![Mécanisme][Images/Mecanisme.png)
+![Mécanisme](Images/Mecanisme.png)
 
 
