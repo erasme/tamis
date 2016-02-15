@@ -1,0 +1,4 @@
+#!/bin/bash
+
+processing-java --sketch=../Particles/ --force --output=output/ --present
+rm -f hs_err_pid*.log
