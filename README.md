@@ -15,11 +15,19 @@ Le spectateur dispose d'un cerceau sur lequel est tendue une toile blanche. Avec
 ## Matériel électronique et informatique
 
 * Une carte `Arduino Uno`
-* Un `Pressure sensor`
+* Un `pressure sensor`
 * Un `accéléromètre`
 * Un ordinateur
 * Un vidéo-projecteur
 
 ## Principe
 
+L'objet est composé de deux éléments s'imbriquant. L'élément du haut est composé d'une sphère et d'une colonne, l'élément du bas prolonge cette colonne et sert de socle.
+
 ![Objet](Images/Objet.png)
+
+Sur l'élément du haut se trouve un élément circulaire permettant d'appuyer sur le `pressure sensor` de l'élément du bas lorsque les deux éléments sont imbriqués.
+
+![Mécanisme][Images/Mecanisme.png)
+
+
