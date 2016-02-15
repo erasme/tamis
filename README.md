@@ -30,4 +30,7 @@ Sur l'élément du haut se trouve un élément circulaire permettant d'appuyer s
 
 ![Mécanisme](Images/Mecanisme.png)
 
+Ainsi, lorsque le tissu tendu du cerceau appuie sur la sphère, l'élément du haut fait pression sur l'élément du bas et stimule le `pressure sensor` pour récupérer une plage de valeurs.
+
+![Pression](Images/Pression.png)
 
